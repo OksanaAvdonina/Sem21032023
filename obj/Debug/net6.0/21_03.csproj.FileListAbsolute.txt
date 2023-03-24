@@ -1,0 +1,15 @@
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\21_03.csproj.AssemblyReference.cache
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\21_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\21_03.AssemblyInfoInputs.cache
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\21_03.AssemblyInfo.cs
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\21_03.csproj.CoreCompileInputs.cache
+D:\GIT\LessonC5_1\21_03\bin\Debug\net6.0\21_03.exe
+D:\GIT\LessonC5_1\21_03\bin\Debug\net6.0\21_03.deps.json
+D:\GIT\LessonC5_1\21_03\bin\Debug\net6.0\21_03.runtimeconfig.json
+D:\GIT\LessonC5_1\21_03\bin\Debug\net6.0\21_03.dll
+D:\GIT\LessonC5_1\21_03\bin\Debug\net6.0\21_03.pdb
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\21_03.dll
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\refint\21_03.dll
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\21_03.pdb
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\21_03.genruntimeconfig.cache
+D:\GIT\LessonC5_1\21_03\obj\Debug\net6.0\ref\21_03.dll
